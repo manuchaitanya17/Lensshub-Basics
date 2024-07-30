@@ -1,4 +1,4 @@
-Warning: This Readme Contains Animated Pictures. <a href="https://github.com/user-attachments/files/16409240/PROJECT.DETAILS-.Lensshub.Basics.docx" download> Download Here!</a> <br>
+Warning: This Readme Contains Animated Pictures. <a href="https://github.com/user-attachments/files/16409240/PROJECT.DETAILS-.Lensshub.Basics.docx" download> Download Here!</a> <br> 
 ![PROJECT DETAILS- Lensshub Basics_page-0001](https://github.com/user-attachments/assets/34b5f480-04e9-4009-8aaf-8d590e1fe728)
 ![PROJECT DETAILS- Lensshub Basics_page-0002](https://github.com/user-attachments/assets/e28f989c-8ef6-4818-a286-1eda2a557b0e)
 ![PROJECT DETAILS- Lensshub Basics_page-0003](https://github.com/user-attachments/assets/91ea7694-6a18-4769-87aa-eceb2b67a00e)
